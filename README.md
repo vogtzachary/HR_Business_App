@@ -7,7 +7,7 @@ This project is an Employee Record Manager and Payroll System
 <ul>
   <li>Windows</li>
 </ul>
-### Features:
+###  Features:
 <ul>
 	<li>Enter Employee Information</li>
 	<li>Auto Saves Employee Records</li>
